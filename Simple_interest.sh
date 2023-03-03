@@ -6,7 +6,7 @@ es (21 sloc)  571 Bytes
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# <your Github username>
+# <msukrualev>
 
 # Input:
 # p, principal amount
